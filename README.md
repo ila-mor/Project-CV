@@ -34,8 +34,8 @@ L'algoritmo segue questi 4 passaggi:
 1. **Esecuzione dell'esercizio**: il giocatore esegue il livello proposto;
 2. **Feedback dell'utente**: al termine di ogni livello, il gioco registra e invia all'agente RL due tipologie di dati: 
    * quanto l'esercizio è andato bene: indice di performance;
-   * quanto è rimasto coinvolto il bambino: indice di coinvolgimento,
-3. **Decisione dell'algoritmo**: sulla base dei dati ottenuti e su quelli precedenti, l'algoritmo sceglie, a seconda della sua strategia di decisione (policy), quale livello è il migliore per l'utente;
+   * quanto è rimasto coinvolto il giocatore: indice di coinvolgimento,
+3. **Decisione dell'algoritmo**: sulla base dei dati ottenuti e dello storico dei livelli precedenti, l'algoritmo sceglie, a seconda della sua strategia di decisione (policy), quale livello è il migliore per l'utente;
 4. **Adattamento del gioco**: il gioco viene aggiornato proponendo la nuova sfida **adattata** al giocatore.
 
 ## Tecnologie e Competenze Sviluppate
