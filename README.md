@@ -1,4 +1,4 @@
-# ITA OVERVIEW - A Data-Driven Multi-Armed Bandit Framework for Adaptive Game-Based Handwriting Training in First Grade Students
+# ITA OVERVIEW - Tesi di Laurea Magistrale
 Questa repository raccoglie la struttura e la metodologia utilizzata per la mia tesi di Laurea Magistrale in Ingegneria Biomedica presso il Politecnico di Milano (Marzo 2026).
 
 
