@@ -1,5 +1,5 @@
 # ITA OVERVIEW - Tesi di Laurea Magistrale
-Questa repository raccoglie la struttura e la metodologia utilizzata per la mia tesi di Laurea Magistrale in Ingegneria Biomedica presso il Politecnico di Milano (Marzo 2026).
+Questa repository raccoglie la struttura e la metodologia utilizzata per la mia tesi di Laurea Magistrale.
 
 
 *NOTA: Questa pagina ha solo uno scopo di mostrare l'architettura e l'approccio ingegneristico utilizzato.*
