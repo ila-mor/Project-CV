@@ -26,7 +26,7 @@ Il constrained MAB, inoltre, permette di avere un bilanciamento **in tempo reale
 ### Modello
 <br>
 <div align="center">
-  <img src="IMMAGINI/Scheme.png" alt="Schema" width="50%">
+  <img src="IMMAGINI/Scheme.png" alt="Schema" width="100%">
 </div>
 <br>
 
